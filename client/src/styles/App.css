@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.performance-metrics {
+  margin-top: 20px;
+}
+
+.url-input input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.url-input button {
+  padding: 10px;
+}
